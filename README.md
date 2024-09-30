@@ -16,12 +16,12 @@
   <h3 align="center">Best-README-Template</h3>
 
   <p align="center">
-    Jamejam is a research and educational project to reach an all-in-one tool for reverse engineering!
+    Jamejam is a research and educational project that aims to reach an all-in-one tool for reverse engineering!
     <br />
     <a href="https://github.com/aiooord/jam-e-jamshid"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/aiooord/jam-e-jamshid">View Demo</a>
+    <a href="https://youtu.be/BXfrocHqKyo">View Demo</a>
     ·
     <a href="https://github.com/aiooord/jam-e-jamshid/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
