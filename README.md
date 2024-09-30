@@ -86,11 +86,18 @@ The key objectives of Jamejam are:
         - [ ] relocatable
         - [ ] dump
 - [ ] Debugger
-    - [ ] Windows Debugger
+    - [ ] Windows Executable Debugger
     - [ ] Linux Executable Debugger
+- [ ] Decompiler
+- [ ] Sandbox Environment
+- [ ] Instructions and Data Map
+- [ ] Deobfuscator
+- [ ] Anomaly Pattern Recoginition
 - [ ] Multi-language Support
+    - [ ] Persian
     - [ ] Chinese
     - [ ] Spanish
+    - [ ] Arabic
 
 See the [open issues](https://github.com/aiooord/jam-e-jamshid/issues) for a full list of proposed features (and known issues).
 
