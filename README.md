@@ -29,6 +29,8 @@
 </div>
 
 # Introduction to Jam-e-Jamshid
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
 Jamejam aims to deliver an advanced reverse engineering suite that combines traditional analysis tools with cutting-edge AI capabilities. Jamejam aims to address the shortcomings of existing solutions, such as IDA and Ghidra, by providing a unified platform that includes a hex editor, selective disassembler (Ai000-Disassembler or Capstone), debugger, decompiler, and AI-driven modules for obfuscation detection and isolated program analysis. Through these features, Jamejam enhances accuracy, speed, and usability, enabling users to analyze complex software and malware more efficiently.
 
 # Scope of Jam-e-Jamshid
@@ -55,7 +57,7 @@ The key objectives of Jamejam are:
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: git_photos/mainwindow.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
