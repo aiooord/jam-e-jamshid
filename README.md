@@ -126,7 +126,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Milad Kahsari Alhadi - [@cdefender0]([https://twitter.com/cdefender]) - m_kahsari@acql.ir
+Milad Kahsari Alhadi - [@cdefender0](https://twitter.com/cdefender) - m_kahsari@acql.ir
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
