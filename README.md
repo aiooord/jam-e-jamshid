@@ -44,7 +44,7 @@ Here, we list major frameworks/libraries used to bootstrap the Jamejam project (
 1. ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 2. ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 3. ![WinAPI](https://img.shields.io/badge/APIs-winapi-blue)
-4. 3. ![WinAPI](https://img.shields.io/badge/APIs-posix-red)
+4. ![LnxAPI](https://img.shields.io/badge/APIs-posix-red)
 
 # Objectives of Jam-e-Jamshid
 The key objectives of Jamejam are:
