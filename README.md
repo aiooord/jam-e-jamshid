@@ -78,7 +78,7 @@ The key objectives of Jamejam are:
         - [ ] dll
         - [ ] lib
         - [ ] sys
-  - [ ] ELF Parser
+    - [ ] ELF Parser
         - [ ] exe
         - [ ] shared
         - [ ] relocatable
