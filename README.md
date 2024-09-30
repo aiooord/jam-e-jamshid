@@ -36,6 +36,13 @@ Jamejam aims to deliver an advanced reverse engineering suite that combines trad
 # Scope of Jam-e-Jamshid
 Jamejam is designed for reverse engineers, security analysts, and software developers who require robust tools for software analysis, malware detection, and code deobfuscation. The software provides core functionalities for analyzing low-level code, debugging, and decompiling alongside AI-powered features like obfuscation detection and behavior analysis in an isolated environment. Integrating Large Language Models (LLMs) further aids users by providing detailed code analysis and summaries.
 
+### Built With
+
+Here we list major frameworks/libraries use to bootstrap jamejam project (It will updated to latest changes). Here are the latest usage:
+
+* [![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+* [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 # Objectives of Jam-e-Jamshid
 The key objectives of Jamejam are:
 1.	To provide a highly customizable disassembler and debugger, improving upon existing reverse engineering tools.
@@ -58,19 +65,3 @@ The key objectives of Jamejam are:
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: git_photos/mainwindow.png
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
