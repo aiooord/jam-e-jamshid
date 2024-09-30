@@ -1,3 +1,10 @@
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 # Introduction to Jam-e-Jamshid
 Jamejam aims to deliver an advanced reverse engineering suite that combines traditional analysis tools with cutting-edge AI capabilities. Jamejam aims to address the shortcomings of existing solutions, such as IDA and Ghidra, by providing a unified platform that includes a hex editor, selective disassembler (Ai000-Disassembler or Capstone), debugger, decompiler, and AI-driven modules for obfuscation detection and isolated program analysis. Through these features, Jamejam enhances accuracy, speed, and usability, enabling users to analyze complex software and malware more efficiently.
 
