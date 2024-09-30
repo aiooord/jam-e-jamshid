@@ -55,10 +55,37 @@ The key objectives of Jamejam are:
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
+- [x] Hex editor
+    - [ ] Support PE
+        - [ ] View
+        - [ ] Edit
+        - [ ] Save
+        - [ ] Save As
+    - [ ] Support ELF
+        - [ ] View
+        - [ ] Edit
+        - [ ] Save
+        - [ ] Save As
+- [x] Byte-Stream Disassembler 
+    - [ ] Intel 16bit Disassembler
+    - [ ] Intel 32bit Disassembler
+    - [ ] Intel 64bit Disassembler
+    - [ ] Arm 32bit Disassembler
+    - [ ] Arm 64bit Disassembler
+- [ ] File Format Parser
+    - [ ] PE Parser
+        - [ ] exe
+        - [ ] dll
+        - [ ] lib
+        - [ ] sys
+  - [ ] ELF Parser
+        - [ ] exe
+        - [ ] shared
+        - [ ] relocatable
+        - [ ] dump
+- [ ] Debugger
+    - [ ] Windows Debugger
+    - [ ] Linux Executable Debugger
 - [ ] Multi-language Support
     - [ ] Chinese
     - [ ] Spanish
