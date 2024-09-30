@@ -97,7 +97,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 Milad Kahsari Alhadi - [@cdefender](https://twitter.com/cdefender) - m_kahsari@acql.ir
-Project Link: [https://github.com/aiooord/jam-e-jamshid](https://github.com/aiooord/jam-e-jamshid)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
