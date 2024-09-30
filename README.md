@@ -9,11 +9,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/aiooord/jam-e-jamshid">
     <img src="git_photos/jamejam.png" alt="Logo" width="160" height="160">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Ai000 Jam-e-Jamshid</h3>
 
   <p align="center">
     Jamejam is a research and educational project that aims to reach an all-in-one tool for reverse engineering!
