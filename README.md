@@ -15,21 +15,21 @@
   <h3 align="center">Best-README-Template</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Jamejam is a research and educational project to reach an all-in-one tool for reverse engineering!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/aiooord/jam-e-jamshid"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/aiooord/jam-e-jamshid">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/aiooord/jam-e-jamshid/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/aiooord/jam-e-jamshid/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
 # Introduction to Jam-e-Jamshid
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://acql.ir)
 
 Jamejam aims to deliver an advanced reverse engineering suite that combines traditional analysis tools with cutting-edge AI capabilities. Jamejam aims to address the shortcomings of existing solutions, such as IDA and Ghidra, by providing a unified platform that includes a hex editor, selective disassembler (Ai000-Disassembler or Capstone), debugger, decompiler, and AI-driven modules for obfuscation detection and isolated program analysis. Through these features, Jamejam enhances accuracy, speed, and usability, enabling users to analyze complex software and malware more efficiently.
 
@@ -38,7 +38,7 @@ Jamejam is designed for reverse engineers, security analysts, and software devel
 
 ### Built With
 
-Here we list major frameworks/libraries use to bootstrap jamejam project (It will updated to latest changes). Here are the latest usage:
+Here, we list major frameworks/libraries used to bootstrap the Jamejam project (It will updated to the latest changes). Here is the latest usage:
 
 * ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 * ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -62,18 +62,14 @@ The key objectives of Jamejam are:
     - [ ] Chinese
     - [ ] Spanish
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/aiooord/jam-e-jamshid/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Contributions make the open-source community an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**. If you have a suggestion for improving this, please forward the repo and create a pull request. You can also open an issue with the tag "enhancement."
 Don't forget to give the project a star! Thanks again!
 
 1. Fork the Project
@@ -84,13 +80,11 @@ Don't forget to give the project a star! Thanks again!
 
 ### Top contributors:
 
-<a href="https://github.com/othneildrew/Best-README-Template/graphs/contributors">
+<a href="https://github.com/aiooord/jam-e-jamshid/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=othneildrew/Best-README-Template" alt="contrib.rocks image" />
 </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- LICENSE -->
 ## License
@@ -99,15 +93,11 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
+Milad Kahsari Alhadi - [@cdefender](https://twitter.com/cdefender) - m_kahsari@acql.ir
+Project Link: [https://github.com/aiooord/jam-e-jamshid](https://github.com/aiooord/jam-e-jamshid)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
