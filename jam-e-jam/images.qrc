@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/about-logo.png</file>
+        <file>images/website.png</file>
+        <file>images/font.png</file>
+        <file>images/sandbox.png</file>
+        <file>images/decompile.png</file>
+        <file>images/disassemble.png</file>
+        <file>images/entropy.png</file>
+        <file>images/frequency.png</file>
+        <file>images/graph.png</file>
+        <file>images/unicode.png</file>
+        <file>images/ascii.png</file>
+        <file>images/byte.png</file>
+        <file>images/regular_expression.png</file>
+        <file>images/functions.png</file>
+        <file>images/names.png</file>
+        <file>images/strings.png</file>
+    </qresource>
+</RCC>
