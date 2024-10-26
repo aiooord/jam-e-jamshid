@@ -28,7 +28,6 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
         ${PROJECT_SOURCES}
         images.qrc
         init.h init.cpp
-        disassembly_engine.h disassembly_engine.cpp
     )
 # Define target properties for Android with Qt 6 as:
 #    set_property(TARGET jam-e-jam APPEND PROPERTY QT_ANDROID_PACKAGE_SOURCE_DIR
@@ -54,10 +53,9 @@ endif()
 
 target_link_libraries(jam-e-jam PRIVATE Qt${QT_VERSION_MAJOR}::Widgets)
 
-# Include Capstone
-target_include_directories(jam-e-jam PRIVATE depdencies/capstone-5.0.1/include")
-target_link_libraries(jam-e-jam PRIVATE "depdencies/capstone-5.0.1/build/Release/capstone.lib")
-
+# Find Capstone library
+find_library(CAPSTONE_LIBRARY capstone REQUIRED)
+include_directories(/usr/local/include/capstone)  # Capstone headers
 
 # Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.
 # If you are developing for iOS or macOS you should consider setting an
