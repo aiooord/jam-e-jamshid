@@ -55,8 +55,8 @@ endif()
 target_link_libraries(jam-e-jam PRIVATE Qt${QT_VERSION_MAJOR}::Widgets)
 
 # Include Capstone
-target_include_directories(jam-e-jam PRIVATE "C:/Users/Milad/Desktop/aiooo_projects/depdencies/capstone-5.0.1/include")
-target_link_libraries(jam-e-jam PRIVATE "C:/Users/Milad/Desktop/aiooo_projects/depdencies/capstone-5.0.1/build/Release/capstone.lib")
+target_include_directories(jam-e-jam PRIVATE depdencies/capstone-5.0.1/include")
+target_link_libraries(jam-e-jam PRIVATE "depdencies/capstone-5.0.1/build/Release/capstone.lib")
 
 
 # Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.
